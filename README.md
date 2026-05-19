@@ -158,5 +158,3 @@ plt.show()
 
 # Results
 The PSK modulation and demodulation were successfully implemented, and the original binary data was accurately recovered from the modulated signal.
-```
-# Hardware experiment output waveform.
